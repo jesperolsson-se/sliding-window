@@ -11,3 +11,8 @@ Starting with just one pair of adult rabbits, what's the number of
 a) rabbits; and
 b) adult rabbits;
 after 24 months?
+
+When I've introduced this problem to other developers, many have been inclined
+to attempt to solve it analytically. While amiable, this seldom turned out well
+(in terms of velocity, at least) and sometimes hindered them from considering
+alternative solutions.

@@ -16,3 +16,8 @@ When I've introduced this problem to other developers, many have been inclined
 to attempt to solve it analytically. While amiable, this seldom turned out well
 (in terms of velocity, at least) and sometimes hindered them from considering
 alternative solutions.
+
+# Fundamental idea
+
+Picture a long strip of paper. At regular intervals, vertical lines split it
+into cells, each containing a number. For example, the Fibonacci sequence.

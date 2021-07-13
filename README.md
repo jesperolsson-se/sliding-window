@@ -20,4 +20,7 @@ alternative solutions.
 # Fundamental idea
 
 Picture a long strip of paper. At regular intervals, vertical lines split it
-into cells, each containing a number. For example, the Fibonacci sequence.
+into cells, each containing a number. As an example, Fig. 1 illustrates the
+beginning of the Fibonacci sequence.
+
+![](./resources/fib.png "Fig 1. Partial strip of the Fibonacci sequence")

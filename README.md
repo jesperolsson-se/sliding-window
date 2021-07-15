@@ -24,3 +24,6 @@ into cells, each containing a number. As an example, Fig. 1 illustrates the
 beginning of the Fibonacci sequence.
 
 ![](./resources/fib.png "Fig 1. Partial strip of the Fibonacci sequence")
+
+This strip, we thread through a bit of plastic that accentuates a handful of
+cells. We'll refer to this as our "window".

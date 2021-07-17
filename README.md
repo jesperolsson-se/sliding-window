@@ -32,3 +32,6 @@ the number for an arbitrary position simply by continuing to slide the window
 and fill out blank cells.
 
 ![](./resources/window.png "Fig 2. Sliding the window across a sequence")
+
+That is, we've found a simple, numerical way to calculate some Fibonacci
+number, without the need to introduce e.g., recursion.

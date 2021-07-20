@@ -35,3 +35,8 @@ and fill out blank cells.
 
 That is, we've found a simple, numerical way to calculate some Fibonacci
 number, without the need to introduce e.g., recursion.
+
+# Solution
+
+So far, we've explained the idea behind the Sliding Window approach. Next, let
+us apply it to our original problem.

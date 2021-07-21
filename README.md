@@ -40,3 +40,8 @@ number, without the need to introduce e.g., recursion.
 
 So far, we've explained the idea behind the Sliding Window approach. Next, let
 us apply it to our original problem.
+
+As we can see, the rabbits will live through various stages in their life.
+First, they are born. Then they age, to become one month old, then two, three
+and four. After that, however, they become adults and start producing offspring
+of their own.

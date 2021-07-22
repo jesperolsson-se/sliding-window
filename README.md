@@ -45,3 +45,6 @@ As we can see, the rabbits will live through various stages in their life.
 First, they are born. Then they age, to become one month old, then two, three
 and four. After that, however, they become adults and start producing offspring
 of their own.
+
+In other words, our algorithm will be a bit more compilated than the one above:
+Six changable dimensions rather than one, all of which is dependent on another.

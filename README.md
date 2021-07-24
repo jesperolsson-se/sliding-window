@@ -48,5 +48,9 @@ of their own.
 
 In other words, our algorithm will be a bit more compilated than the one above:
 Six changable dimensions rather than one, all of which is dependent on another.
+As shown in Fig. 3, the number of adults determine the amount of newborn
+rabbits, while most other dimensions just rotates by one stage. The exception
+is when the four-monthers become adult (as they are an addition rather than a
+replacement).
 
 ![](./resources/generation.png "Fig 3. Dimensions of the problem")

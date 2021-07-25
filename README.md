@@ -54,3 +54,14 @@ is when the four-monthers become adult (as they are an addition rather than a
 replacement).
 
 ![](./resources/generation.png "Fig 3. Dimensions of the problem")
+
+T | Adults | New | 1 mo | 2 mo | 3 mo | 4 mo
+--- | --- | --- | --- | --- | --- | ---
+1 | 2 | 8 | 0 | 0 | 0 | 0
+2 | 2 | 8 | 8 | 0 | 0 | 0
+3 | 2 | 8 | 8 | 8 | 0 | 0
+4 | 2 | 8 | 8 | 8 | 8 | 0
+5 | 2 | 8 | 8 | 8 | 8 | 8
+6 | 10 | 8 | 8 | 8 | 8 | 8
+7 | 18 | 40 | 8 | 8 | 8 | 8
+8 | 26 | 72 | 40 | 8 | 8 | 8

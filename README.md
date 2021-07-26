@@ -55,6 +55,10 @@ replacement).
 
 ![](./resources/generation.png "Fig 3. Dimensions of the problem")
 
+For clarity, the result at each of the first few iterations are shown in the
+table below. Note in particular the exponential growth that starts after the
+children begin to reach adulthood.
+
 T | Adults | New | 1 mo | 2 mo | 3 mo | 4 mo
 --- | --- | --- | --- | --- | --- | ---
 1 | 2 | 8 | 0 | 0 | 0 | 0

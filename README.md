@@ -69,3 +69,27 @@ T | Adults | New | 1 mo | 2 mo | 3 mo | 4 mo
 6 | 10 | 8 | 8 | 8 | 8 | 8
 7 | 18 | 40 | 8 | 8 | 8 | 8
 8 | 26 | 72 | 40 | 8 | 8 | 8
+
+```
+adults = 2
+newborn = 0
+oneMonthers = 0
+twoMonthers = 0
+threeMonthers = 0
+fourMonthers = 0
+
+print("T,adults,newborn,oneMonthers,twoMonthers,threeMonthers,fourMonthers")
+for i in range(1, 25):
+    toBeBorn = int(adults / 2 * 8)
+    adults += fourMonthers
+    fourMonthers = threeMonthers
+    threeMonthers = twoMonthers
+    twoMonthers = oneMonthers
+    oneMonthers = newborn
+    newborn = toBeBorn
+    print(f"{i},{adults},{newborn},{oneMonthers},{twoMonthers},{threeMonthers},{fourMonthers}")
+
+rabbits = adults + newborn + oneMonthers + twoMonthers + threeMonthers + fourMonthers
+print(f"{rabbits=}")
+print(f"{adults=}")
+```

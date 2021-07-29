@@ -70,6 +70,12 @@ T | Adults | New | 1 mo | 2 mo | 3 mo | 4 mo
 7 | 18 | 40 | 8 | 8 | 8 | 8
 8 | 26 | 72 | 40 | 8 | 8 | 8
 
+The code below (Python) illustrates our solution in a very basic style
+(procedural, hard-coded, etc.). In the first couple of rows, we initalize the
+values of each dimension. Then, we numerically calculate (and print) as many
+iterations as we're interested in. Finally, we obtain our answers simply by
+reading the values of our dimensions.
+
 ```
 adults = 2
 newborn = 0

@@ -73,8 +73,9 @@ T | Adults | New | 1 mo | 2 mo | 3 mo | 4 mo
 The code below (Python) illustrates our solution in a very basic style
 (procedural, hard-coded, etc.). In the first couple of rows, we initalize the
 values of each dimension. Then, we numerically calculate (and print) as many
-iterations as we're interested in. Finally, we obtain our answers simply by
-reading the values of our dimensions.
+iterations as we're interested in. Please note that one of the variables is
+temporary, existing only to enable the rotations. Finally, we obtain our
+answers simply by reading the values of our dimensions.
 
 ```
 adults = 2
@@ -99,6 +100,10 @@ rabbits = adults + newborn + oneMonthers + twoMonthers + threeMonthers + fourMon
 print(f"{rabbits=}")
 print(f"{adults=}")
 ```
+
+Executing this program will generate the following output (CSV table and the
+answers to (a) and (b)). In conclusion, the Sliding Window approach is a quick
+and intuitive way to find numerical solutions to a wide range of problems.
 
 > T,adults,newborn,oneMonthers,twoMonthers,threeMonthers,fourMonthers
 >

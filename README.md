@@ -8,8 +8,11 @@ assumptions and questions.
 2) Rabbits become adult when they turn five months old.
 
 Starting with just one pair of adult rabbits, what's the number of
+
 a) rabbits; and
+
 b) adult rabbits;
+
 after 24 months?
 
 When I've introduced this problem to other developers, many have been inclined
@@ -47,9 +50,9 @@ and four. After that, however, they become adults and start producing offspring
 of their own.
 
 In other words, our algorithm will be a bit more compilated than the one above:
-Six changable dimensions rather than one, all of which is dependent on another.
+Six changable dimensions rather than one, all of which are dependent on another.
 As shown in Fig. 3, the number of adults determine the amount of newborn
-rabbits, while most other dimensions just rotates by one stage. The exception
+rabbits, while most other dimensions just rotate by one stage. The exception
 is when the four-monthers become adult (as they are an addition rather than a
 replacement).
 
